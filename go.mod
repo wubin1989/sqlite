@@ -1,4 +1,4 @@
-module github.com/wubin1989/driver/sqlite
+module github.com/wubin1989/sqlite
 
 go 1.20
 

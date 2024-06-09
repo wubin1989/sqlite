@@ -6,7 +6,7 @@
 
 ```go
 import (
-  "github.com/wubin1989/driver/sqlite"
+  "github.com/wubin1989/sqlite"
   "github.com/wubin1989/gorm"
 )
 
