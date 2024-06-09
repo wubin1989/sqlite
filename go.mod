@@ -1,10 +1,10 @@
-module gorm.io/driver/sqlite
+module github.com/wubin1989/driver/sqlite
 
 go 1.20
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.17
-	gorm.io/gorm v1.25.7-0.20240204074919-46816ad31dde
+	github.com/wubin1989/gorm v0.0.1
 )
 
 require (

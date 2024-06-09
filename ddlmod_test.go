@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"testing"
 
-	"gorm.io/gorm/migrator"
-	"gorm.io/gorm/utils/tests"
+	"github.com/wubin1989/gorm/migrator"
+	"github.com/wubin1989/gorm/utils/tests"
 )
 
 func TestParseDDL(t *testing.T) {

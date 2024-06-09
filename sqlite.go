@@ -5,14 +5,14 @@ import (
 	"database/sql"
 	"strconv"
 
-	"gorm.io/gorm/callbacks"
+	"github.com/wubin1989/gorm/callbacks"
 
 	_ "github.com/mattn/go-sqlite3"
-	"gorm.io/gorm"
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/logger"
-	"gorm.io/gorm/migrator"
-	"gorm.io/gorm/schema"
+	"github.com/wubin1989/gorm"
+	"github.com/wubin1989/gorm/clause"
+	"github.com/wubin1989/gorm/logger"
+	"github.com/wubin1989/gorm/migrator"
+	"github.com/wubin1989/gorm/schema"
 )
 
 // DriverName is the default driver name for SQLite.
