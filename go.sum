@@ -4,5 +4,5 @@ github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=
 github.com/jinzhu/now v1.1.5/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
 github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
 github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
-github.com/wubin1989/gorm v0.0.1 h1:bIhfqq8OkWAVLh5rg5drtNbFx1k0tGN2foWnhT/qFmY=
-github.com/wubin1989/gorm v0.0.1/go.mod h1:sv3afa8/Q6XTgEbTTWTjJd0NIlBMH4bMq5VpEnXr/Cc=
+github.com/wubin1989/gorm v0.0.3 h1:5YNqwQtBJo1E9EOZnFXevzxQd93H61TMhKjPsCWxqvU=
+github.com/wubin1989/gorm v0.0.3/go.mod h1:sv3afa8/Q6XTgEbTTWTjJd0NIlBMH4bMq5VpEnXr/Cc=
